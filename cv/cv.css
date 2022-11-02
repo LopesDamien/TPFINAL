@@ -1,5 +1,5 @@
 .structure {
-    background-color: aqua;
+    background-color: rgb(203, 203, 209);
     height: 1000px;
     float: left;
 }
@@ -136,7 +136,7 @@ img{
 .compet3{
     text-align: center;
     margin-top: 1px;
-    margin-right:129px;
+    margin-right:164px;
     float:right
     
 }
@@ -157,6 +157,22 @@ img{
     margin: 0px 140px;
 
 }
+.struct4{
+    margin-top: -20px;
+    float: left;
+}
+
+.compet4{
+    margin-top: 40px;
+    margin-left: 0px;
+    float: left;
+}
+.rondd{
+    font-size: 12px;
+    margin-top: 40px;
+    margin-left: 120px;
+    margin: 0px 140p;
+}
 
 .imgg{
     background-color: aquamarine;
@@ -164,13 +180,13 @@ img{
 .deb{
     margin-left: 10px;
 }
-.menu2 {
+.deb {
     float:right;
     width:450px;
     height:995px;
     background-color:#ffffff;}
 
-h4{
+h1{
     text-align:left;
     font-size: 1.5rem;
     font-family: sans-serif;
@@ -179,7 +195,7 @@ h4{
     
     }
 
-h5{
+h2{
     text-align:left;
     font-size: 1.5rem;
     font-family: sans-serif;
@@ -189,14 +205,14 @@ h5{
 
 
 
-.ligne_horizontalv2 { 
+.lignehorizontal { 
      content: ""; 
      flex: 1 1; 
      border-bottom: 2px solid rgb(0, 0, 0); 
      margin: 0px 50px 0px;
      }
 
-.p3 {
+.p1 {
     text-align:left;
     font-size: 1rem;
     font-family: sans-serif;
@@ -204,22 +220,22 @@ h5{
     color: rgb(0, 0, 0);
     }
 
-.p4 {
+.p2 {
     text-align:left;
     font-family: sans-serif;
     margin: 20px 50px 10px;
     }
 
-.p5 {
+.p3 {
     text-align:left;
     font-family: sans-serif;
     margin: 10px 50px 10px;
     }
 
 
-.ligne_horizontalv3 { 
+.lignehorizontal3 { 
 content: ""; 
 flex: 1 1; 
 border-bottom: 2px solid rgb(0, 0, 0); 
-margin: 125px 50px 0px;
+margin: 120px 50px 0px;
 }
